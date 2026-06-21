@@ -303,7 +303,7 @@ The discussion signal is usually a single closing sentence. The model appears to
 | E6 | "If you attended, what were your thoughts?" | 0.77 | ✗ Wrong |
 
 
-### Pattern 3 — Some Review -> Discussion Errors are unique
+### Pattern 3: Some Review -> Discussion errors are unique
 
 E5 (Amewards annual post) is the only Review misclassified as Discussion,
 and it is an outlier among Reviews in the dataset.
