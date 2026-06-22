@@ -1,4 +1,4 @@
-# ai201_project3_takemeter
+# ai201-project3-takemeter
 
 ## Dataset specifications
 
