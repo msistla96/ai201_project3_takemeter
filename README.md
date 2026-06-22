@@ -78,11 +78,16 @@ Platform: `Google Colab`
 Hyperparameters: 
 
 Epochs: 5
+
 Learning rate: 2e-5
+
 Batch size for training: 16
 
 Change to params:
-Epoch - 3 provided F1-scores under 0.6 for both labels, had 70% training accuracy but higher validation loss of around 60% and had 19/30 predictions labelled correctly in the test set, which was slightly above 50%(close to guessing). 
+
+Epoch
+
+3 provided F1-scores under 0.6 for both labels, had 70% training accuracy but higher validation loss of around 60% and had 19/30 predictions labelled correctly in the test set, which was slightly above 50%(close to guessing). 
 Larger epochs improved validation to less than 60%, provided stable training accuracies and had 24/30 predictions labelled correctly in the test set, increasing to 80% accuracy.
 
 
