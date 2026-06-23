@@ -37,7 +37,9 @@ When a discussion includes a review as the author tries to tell what they felt a
 ### Data collection plan
 
 Reddit archives through  `old.reddit` as it's free and easy to extract examples with less noise (There are a lot of videos, images, irrelevant text) compared to scrapping from Arctic Shift.
-Since it's a community focused on discussions and reviews, there are sufficient examples for each kind of label that it can be a balanced set. 
+Since it's a community focused on discussions and reviews, there are sufficient examples for each kind of label that it can be a balanced set.
+
+[Final dataset](./dataset/data.csv)
 
 ### Data labelling plan
 
